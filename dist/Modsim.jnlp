@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="Modsim.jar" size="2540" download="eager" />
+    <jar href="Modsim.jar" size="3972" download="eager" />
   </resources>
   <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Modsim" >
     <param name="requiredFXVersion" value="8.0+"/>
